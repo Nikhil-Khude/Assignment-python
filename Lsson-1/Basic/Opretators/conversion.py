@@ -1,0 +1,8 @@
+n=input("Enter the Number:-")
+inte=int(n)
+flo=float(inte)
+stra=str(flo)
+print(n,type(n))
+print(inte,type(inte))
+print(flo,type(flo))
+print(stra,type(stra))
